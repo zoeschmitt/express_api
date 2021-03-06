@@ -1,0 +1,17 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "an express api",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tests/*.js --exit"
+  },
+  "author": "Zoe Schmitt",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.1"
+  }
+}
